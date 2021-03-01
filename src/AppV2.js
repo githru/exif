@@ -31,7 +31,7 @@ const AppV2 = props => {
   const gitAnalyzerRef = useRef(undefined);
   // const initRef = useRef(true);
   // Importing json files
-  const repo = props.match.params.repo;
+  const repo = "realm-java";
   const mainStemBranchName = props.match.params.mainStemBranchName;
   console.log("mainStemBranchName", repo, mainStemBranchName);
 

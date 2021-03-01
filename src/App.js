@@ -12,7 +12,7 @@ class App extends React.Component {
     render() {
         return(
             <Switch>
-                <Route exact path="/" component = { Home }/>
+                <Route exact path="/" component = { v2 }/>
                 <Route path = "/v2/:repo/:releasePrefix/:mainStemBranchName" component = { v2 }/>
                 <Route path = "/v2/:repo/:releasePrefix" component = { v2 }/>
                 <Route path = "/v2/:repo/" component = { v2 }/>
