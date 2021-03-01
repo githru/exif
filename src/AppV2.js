@@ -32,10 +32,10 @@ const AppV2 = props => {
   // const initRef = useRef(true);
   // Importing json files
   const repo = "realm-java";
-  const mainStemBranchName = props.match.params.mainStemBranchName;
+  const mainStemBranchName = "master"
   console.log("mainStemBranchName", repo, mainStemBranchName);
 
-  const releasePrefix = props.match.params.releasePrefix;
+  const releasePrefix = "v2";
   const data = require('./json/' + repo + '.commits.json');
   const scoreData = require('./json/' + repo + '.score.json');
   const corpusData = require('./json/' + repo + '.corpus.json');
