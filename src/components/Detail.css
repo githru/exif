@@ -1,0 +1,24 @@
+.clusterData {
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.clusterDataHeader {
+    text-align: left;
+}
+
+.linkCurveLine {
+    stroke-width: 2;
+}
+
+.clusterDataItem {
+    stroke-width: 1;
+    /* fill: #efebe9; */
+}
+
+.matchedText {
+    fill: red;
+    font-weight: bold;
+}

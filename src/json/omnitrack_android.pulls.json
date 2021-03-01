@@ -1,0 +1,627 @@
+[
+    {
+        "number": 23,
+        "state": "closed",
+        "title": "Fixed bug of sync logics",
+        "body": "",
+        "message": "Fixed bug of sync logics ",
+        "merge_commit_sha": "1519e896198176ff33bb1675af6701ecddb5b6e4",
+        "head": {
+            "sha": "50cf6a72bc176a95f64fa7a31caffdd241f7bc6a"
+        },
+        "base": {
+            "sha": "0d40151f566b87c809e156d8a8a8c7ff018ac36a"
+        },
+        "commitsLink": "https://api.github.com/repos/muclipse/omnitrack_android/pulls/23/commits",
+        "merged": true,
+        "corpus": [
+            "fixed",
+            "bug",
+            "sync",
+            "logics"
+        ],
+        "tfidf": {
+            "8": 1.027446367922282,
+            "23": 0.998655222328055,
+            "1204": 0.6671983727783186,
+            "162": 0.7824944802355138
+        }
+    },
+    {
+        "number": 24,
+        "state": "closed",
+        "title": "Sync update logic",
+        "body": "",
+        "message": "Sync update logic ",
+        "merge_commit_sha": "0d08150f268ef82a82e3521796ae2c87265265c9",
+        "head": {
+            "sha": "5b0755a779f74fc7dbf8814d81e458bcdd9ed7a3"
+        },
+        "base": {
+            "sha": "1519e896198176ff33bb1675af6701ecddb5b6e4"
+        },
+        "commitsLink": "https://api.github.com/repos/muclipse/omnitrack_android/pulls/24/commits",
+        "merged": true,
+        "corpus": [
+            "sync",
+            "update",
+            "logic"
+        ],
+        "tfidf": {
+            "1204": 0.6671983727783186,
+            "26": 0.5754961200260632,
+            "192": 0.8711574737005864
+        }
+    },
+    {
+        "number": 27,
+        "state": "closed",
+        "title": "Enable external service connections directly from the services tab",
+        "body": " This PR allows not only a method of adding external service in `AttributeDetailActivity` but also selecting the attribute to be connected from `ServiceListFragment`. \r\n If there are not any valid trackers or attributes yet, user can add a new tracker or a new attribute to attach to the tracker.",
+        "message": "Enable external service connections directly from the services tab  This PR allows not only a method of adding external service in `AttributeDetailActivity` but also selecting the attribute to be connected from `ServiceListFragment`. \r\n If there are not any valid trackers or attributes yet, user can add a new tracker or a new attribute to attach to the tracker.",
+        "merge_commit_sha": "19df03f2cec1a72efd02a634434c91a33072cce6",
+        "head": {
+            "sha": "5d17fa37a7d245e5ad34180a83242c47efbe5bd9"
+        },
+        "base": {
+            "sha": "19b854f79e5983855181b8a743b0b4a85a14fbd8"
+        },
+        "commitsLink": "https://api.github.com/repos/muclipse/omnitrack_android/pulls/27/commits",
+        "merged": true,
+        "corpus": [
+            "enable",
+            "external",
+            "service",
+            "connections",
+            "directly",
+            "services",
+            "tab",
+            "pr",
+            "allows",
+            "method",
+            "adding",
+            "external",
+            "service",
+            "attributedetailactivity",
+            "also",
+            "selecting",
+            "attribute",
+            "connected",
+            "servicelistfragment",
+            "valid",
+            "trackers",
+            "attributes",
+            "yet",
+            "user",
+            "add",
+            "new",
+            "tracker",
+            "new",
+            "attribute",
+            "attach",
+            "tracker"
+        ],
+        "tfidf": {
+            "1017": 0.6849239229241487,
+            "832": 1.529199487596683,
+            "318": 1.4496333952541474,
+            "1018": 0.6407680617148338,
+            "972": 0.7094441032682762,
+            "559": 0.726881272235138,
+            "1019": 0.7483366930334395,
+            "2066": 0.7781512503836436,
+            "2067": 1.255272505103306,
+            "248": 0.7317699960216628,
+            "34": 0.7728142224472088,
+            "1028": 0.6407680617148338,
+            "2068": 0.9542425094393249,
+            "2069": 1.255272505103306,
+            "97": 1.5065772009110099,
+            "1862": 0.610115060898957,
+            "2070": 1.255272505103306,
+            "875": 0.6407680617148338,
+            "374": 0.7987541793839804,
+            "415": 0.7585431790512634,
+            "1389": 0.7363163061403517,
+            "177": 0.6247248802169524,
+            "423": 0.6492036066891703,
+            "198": 0.9998581091432094,
+            "326": 1.8408203418468594,
+            "1718": 0.6597559657679168
+        }
+    },
+    {
+        "number": 29,
+        "state": "closed",
+        "title": "Apply a new version of AppUpdater to Omnitrack",
+        "body": "1. Register AppUpdateService to a manifest file.\r\n2. Set icon to AppUpdater for notifications\r\n\r\nPlease merge this PR after merging  muclipse/AppUpdater#1.",
+        "message": "Apply a new version of AppUpdater to Omnitrack 1. Register AppUpdateService to a manifest file.\r\n2. Set icon to AppUpdater for notifications\r\n\r\nPlease merge this PR after merging  muclipse/AppUpdater#1.",
+        "merge_commit_sha": "6596663588496efd448fad5649a421a1244e237f",
+        "head": {
+            "sha": "b07a96204fa2b61b76438af583e4ec959836b36c"
+        },
+        "base": {
+            "sha": "f3b67823ef77a0ecf0ace8b3087bdddf4cca21f5"
+        },
+        "commitsLink": "https://api.github.com/repos/muclipse/omnitrack_android/pulls/29/commits",
+        "merged": true,
+        "corpus": [
+            "apply",
+            "new",
+            "version",
+            "appupdater",
+            "omnitrack",
+            "1",
+            "register",
+            "appupdateservice",
+            "manifest",
+            "file",
+            "2",
+            "set",
+            "icon",
+            "appupdater",
+            "notifications",
+            "please",
+            "merge",
+            "pr",
+            "merging",
+            "muclipse",
+            "appupdater#1"
+        ],
+        "tfidf": {
+            "87": 0.6214646012061282,
+            "198": 0.4999290545716047,
+            "28": 0.7052798527422526,
+            "779": 1.2284076725215671,
+            "289": 0.8195699283323153,
+            "1937": 0.610115060898957,
+            "2071": 1.255272505103306,
+            "2072": 1.255272505103306,
+            "347": 0.7158121035463099,
+            "796": 0.7778137559161125,
+            "1939": 0.610115060898957,
+            "799": 0.7445647555474767,
+            "500": 0.751909974845912,
+            "691": 0.7405683884207861,
+            "2073": 1.255272505103306,
+            "30": 0.8815833066647727,
+            "2066": 0.7781512503836436,
+            "2074": 1.255272505103306,
+            "135": 0.6725001867340048,
+            "2075": 1.255272505103306
+        }
+    },
+    {
+        "number": 31,
+        "state": "closed",
+        "title": "Connect Preference with AppUpdater",
+        "body": "This PR connects preference that checks newly update version with `AppUpdater`.\r\nIt also adds a new user permission (REQUEST_INSTALL_PACKAGES) to resolve a problem in specific android versions(Android API 24+).",
+        "message": "Connect Preference with AppUpdater This PR connects preference that checks newly update version with `AppUpdater`.\r\nIt also adds a new user permission (REQUEST_INSTALL_PACKAGES) to resolve a problem in specific android versions(Android API 24+).",
+        "merge_commit_sha": "c3a56834b3ef5386df80d583de20ddb187473315",
+        "head": {
+            "sha": "929ba0a607e63879454ba2e64b9534c8e3006870"
+        },
+        "base": {
+            "sha": "dbfd663f726d10552c75fe6136878b5d23e0669e"
+        },
+        "commitsLink": "https://api.github.com/repos/muclipse/omnitrack_android/pulls/31/commits",
+        "merged": true,
+        "corpus": [
+            "connect",
+            "preference",
+            "appupdater",
+            "pr",
+            "connects",
+            "preference",
+            "checks",
+            "newly",
+            "update",
+            "version",
+            "appupdater",
+            "also",
+            "adds",
+            "new",
+            "user",
+            "permission",
+            "request_install_packages",
+            "resolve",
+            "problem",
+            "specific",
+            "android",
+            "versions",
+            "android",
+            "api",
+            "24"
+        ],
+        "tfidf": {
+            "935": 0.6597559657679168,
+            "936": 1.4316242070926197,
+            "779": 1.2284076725215671,
+            "2066": 0.7781512503836436,
+            "2076": 1.255272505103306,
+            "380": 0.6849239229241487,
+            "1601": 0.6597559657679168,
+            "26": 0.5754961200260632,
+            "28": 0.7052798527422526,
+            "2068": 0.9542425094393249,
+            "2077": 1.255272505103306,
+            "198": 0.4999290545716047,
+            "177": 0.6247248802169524,
+            "524": 0.7363163061403517,
+            "2078": 1.255272505103306,
+            "2079": 1.255272505103306,
+            "638": 0.7778137559161125,
+            "2080": 1.255272505103306,
+            "44": 1.5403583331215491,
+            "805": 0.7094441032682762,
+            "254": 0.6725001867340048,
+            "2081": 1.255272505103306
+        }
+    },
+    {
+        "number": 32,
+        "state": "closed",
+        "title": "Time picker direct input",
+        "body": "Resolves #11 ",
+        "message": "Time picker direct input Resolves #11 ",
+        "merge_commit_sha": "59ef1fd862c279a83f2e5172fa4d0ebdaa3857de",
+        "head": {
+            "sha": "d1a40d7c6b990b7a0cea011cf94b31b1484e2f5a"
+        },
+        "base": {
+            "sha": "c2f7c97808480f576085b50d67cc2ec328ea461c"
+        },
+        "commitsLink": "https://api.github.com/repos/muclipse/omnitrack_android/pulls/32/commits",
+        "merged": true,
+        "corpus": [
+            "time",
+            "picker",
+            "direct",
+            "input",
+            "resolves",
+            "#11"
+        ],
+        "tfidf": {
+            "621": 0.8620794892225324,
+            "401": 0.8250313598610044,
+            "866": 0.610115060898957,
+            "515": 0.8490604919378746,
+            "2082": 1.255272505103306,
+            "2083": 1.255272505103306
+        }
+    },
+    {
+        "number": 69,
+        "state": "closed",
+        "title": "Create LICENSE",
+        "body": "",
+        "message": "Create LICENSE ",
+        "merge_commit_sha": "5e99d7c12c160707a2007da110bd5c4a78317686",
+        "head": {
+            "sha": "e12d91ae96576800f294b7bb455208a12cbc4729"
+        },
+        "base": {
+            "sha": "4d5f1fa9116c01740288ff26f977949222459fb1"
+        },
+        "commitsLink": "https://api.github.com/repos/muclipse/omnitrack_android/pulls/69/commits",
+        "merged": true,
+        "corpus": [
+            "create",
+            "license"
+        ],
+        "tfidf": {
+            "597": 0.6407680617148338,
+            "598": 0.673750005857964
+        }
+    },
+    {
+        "number": 102,
+        "state": "closed",
+        "title": "Add data driven trigger",
+        "body": "",
+        "message": "Add data driven trigger ",
+        "merge_commit_sha": "d9be3c4ce73a022e4d90830c9199b0427f16dcbc",
+        "head": {
+            "sha": "f3ce1622567e5c92ab3954412a030ff938207a58"
+        },
+        "base": {
+            "sha": "37e6ca37326421a7bb11e9a00f34f2a13f6a6073"
+        },
+        "commitsLink": "https://api.github.com/repos/muclipse/omnitrack_android/pulls/102/commits",
+        "merged": true,
+        "corpus": [
+            "add",
+            "data",
+            "driven",
+            "trigger"
+        ],
+        "tfidf": {
+            "423": 0.6492036066891703,
+            "424": 0.7847286022217587,
+            "425": 0.6407680617148338,
+            "36": 0.9353494538886455
+        }
+    },
+    {
+        "number": 113,
+        "state": "closed",
+        "title": "Improve service wizard dialog",
+        "body": "",
+        "message": "Improve service wizard dialog ",
+        "merge_commit_sha": "337a7e449ba466f685301885af2a155883889ca9",
+        "head": {
+            "sha": "26765b078cd81afc8b03db1c162564d8dab394d5"
+        },
+        "base": {
+            "sha": "e32f406d9aea26c0a3e45dbdeaaa1b0508d5a4df"
+        },
+        "commitsLink": "https://api.github.com/repos/muclipse/omnitrack_android/pulls/113/commits",
+        "merged": true,
+        "corpus": [
+            "improve",
+            "service",
+            "wizard",
+            "dialog"
+        ],
+        "tfidf": {
+            "317": 0.610115060898957,
+            "318": 0.7248166976270737,
+            "319": 0.7215886889668411,
+            "110": 0.8529748359703795
+        }
+    },
+    {
+        "number": 115,
+        "state": "closed",
+        "title": "#114 Implement Metadata Measure Factory",
+        "body": "",
+        "message": "#114 Implement Metadata Measure Factory ",
+        "merge_commit_sha": "42871a4012105d3888eed8cc82d1e8400caa5036",
+        "head": {
+            "sha": "0a2e3d7405309d357829a4ee203212b4d5fb5130"
+        },
+        "base": {
+            "sha": "337a7e449ba466f685301885af2a155883889ca9"
+        },
+        "commitsLink": "https://api.github.com/repos/muclipse/omnitrack_android/pulls/115/commits",
+        "merged": true,
+        "corpus": [
+            "#114",
+            "implement",
+            "metadata",
+            "measure",
+            "factory"
+        ],
+        "tfidf": {
+            "309": 0.610115060898957,
+            "137": 0.42801081217278564,
+            "270": 0.5888336844718166,
+            "310": 0.7778137559161125,
+            "311": 0.7585431790512634
+        }
+    },
+    {
+        "number": 117,
+        "state": "closed",
+        "title": "Migrate item metadata to builder",
+        "body": "",
+        "message": "Migrate item metadata to builder ",
+        "merge_commit_sha": "a86eb97ff81dd6186b9da2107715f86743042ff8",
+        "head": {
+            "sha": "a86eb97ff81dd6186b9da2107715f86743042ff8"
+        },
+        "base": {
+            "sha": "42871a4012105d3888eed8cc82d1e8400caa5036"
+        },
+        "commitsLink": "https://api.github.com/repos/muclipse/omnitrack_android/pulls/117/commits",
+        "merged": true,
+        "corpus": [
+            "migrate",
+            "item",
+            "metadata",
+            "builder"
+        ],
+        "tfidf": {
+            "485": 0.673750005857964,
+            "151": 0.8929102638273291,
+            "270": 0.5888336844718166,
+            "954": 0.7094441032682762
+        }
+    },
+    {
+        "number": 122,
+        "state": "closed",
+        "title": "Support dynamic api key settings",
+        "body": "",
+        "message": "Support dynamic api key settings ",
+        "merge_commit_sha": "77c6356e8c09d0f39901ef52fbb6e52651d1d9e7",
+        "head": {
+            "sha": "7168b8db91e8710c55445d1aeee093f504453960"
+        },
+        "base": {
+            "sha": "c36d64f106aed45b878d18d50cd1704a73586571"
+        },
+        "commitsLink": "https://api.github.com/repos/muclipse/omnitrack_android/pulls/122/commits",
+        "merged": true,
+        "corpus": [
+            "support",
+            "dynamic",
+            "api",
+            "key",
+            "settings"
+        ],
+        "tfidf": {
+            "144": 0.7987541793839804,
+            "253": 0.6597559657679168,
+            "254": 0.6725001867340048,
+            "255": 0.7645997437983415,
+            "256": 0.8090373533514922
+        }
+    },
+    {
+        "number": 133,
+        "state": "closed",
+        "title": "Apply new lock flags",
+        "body": "",
+        "message": "Apply new lock flags ",
+        "merge_commit_sha": "a701faddf45b813bc85956f561bfe4843b7d973b",
+        "head": {
+            "sha": "5c0c3f6cca858d0bf16d4c1eb04649b69028cd47"
+        },
+        "base": {
+            "sha": "8aed88927f30e06a6561d9367e4bee7fce419e13"
+        },
+        "commitsLink": "https://api.github.com/repos/muclipse/omnitrack_android/pulls/133/commits",
+        "merged": true,
+        "corpus": [
+            "apply",
+            "new",
+            "lock",
+            "flags"
+        ],
+        "tfidf": {
+            "87": 0.6214646012061282,
+            "198": 0.4999290545716047,
+            "156": 0.6942720311360355,
+            "170": 0.7483366930334395
+        }
+    },
+    {
+        "number": 137,
+        "state": "closed",
+        "title": "Implement my account page",
+        "body": "",
+        "message": "Implement my account page ",
+        "merge_commit_sha": "a736f8561b162568bbf820c5554f372a5d101daf",
+        "head": {
+            "sha": "71a6d909589a4e6bff1cf7863f7c79fdb28d13a2"
+        },
+        "base": {
+            "sha": "6e7fd287a105b3a38b77f74be59c2dffdc3dbef8"
+        },
+        "commitsLink": "https://api.github.com/repos/muclipse/omnitrack_android/pulls/137/commits",
+        "merged": true,
+        "corpus": [
+            "implement",
+            "account",
+            "page"
+        ],
+        "tfidf": {
+            "137": 0.42801081217278564,
+            "138": 0.5248202815506418,
+            "139": 0.5957321052667301
+        }
+    },
+    {
+        "number": 138,
+        "state": "closed",
+        "title": "Revert \"Implement my account page\"",
+        "body": "Reverts muclipse/omnitrack_android#137",
+        "message": "Revert \"Implement my account page\" Reverts muclipse/omnitrack_android#137",
+        "merge_commit_sha": "d07ca4dfb5872d5f06686d26e22c96002d4236b8",
+        "head": {
+            "sha": "97da45f923e47353dae0a4d47b865114f4001019"
+        },
+        "base": {
+            "sha": "a736f8561b162568bbf820c5554f372a5d101daf"
+        },
+        "commitsLink": "https://api.github.com/repos/muclipse/omnitrack_android/pulls/138/commits",
+        "merged": true,
+        "corpus": [
+            "revert",
+            "implement",
+            "account",
+            "page",
+            "reverts",
+            "muclipse",
+            "omnitrack_android#137"
+        ],
+        "tfidf": {
+            "140": 0.6407680617148338,
+            "137": 0.42801081217278564,
+            "138": 0.5248202815506418,
+            "139": 0.5957321052667301,
+            "2084": 1.255272505103306,
+            "135": 0.6725001867340048,
+            "2085": 1.255272505103306
+        }
+    },
+    {
+        "number": 139,
+        "state": "closed",
+        "title": "Implement my account page",
+        "body": "",
+        "message": "Implement my account page ",
+        "merge_commit_sha": "bb2185a95e172cf1f1df722c35c2cb16ae579533",
+        "head": {
+            "sha": "71a6d909589a4e6bff1cf7863f7c79fdb28d13a2"
+        },
+        "base": {
+            "sha": "7c55518ac7fdb8d7aa81bf203a508cca3135a49f"
+        },
+        "commitsLink": "https://api.github.com/repos/muclipse/omnitrack_android/pulls/139/commits",
+        "merged": true,
+        "corpus": [
+            "implement",
+            "account",
+            "page"
+        ],
+        "tfidf": {
+            "137": 0.42801081217278564,
+            "138": 0.5248202815506418,
+            "139": 0.5957321052667301
+        }
+    },
+    {
+        "number": 142,
+        "state": "closed",
+        "title": "Rename attribute to field",
+        "body": "",
+        "message": "Rename attribute to field ",
+        "merge_commit_sha": "478e17c0de284408c5931a7e26e20a3faf3f324d",
+        "head": {
+            "sha": "38ea437e5d7da79dd1965d82380f3a84d917859e"
+        },
+        "base": {
+            "sha": "2bde7bf9d91122f1a5042d63d011d0a7092e799c"
+        },
+        "commitsLink": "https://api.github.com/repos/muclipse/omnitrack_android/pulls/142/commits",
+        "merged": true,
+        "corpus": [
+            "rename",
+            "attribute",
+            "field"
+        ],
+        "tfidf": {
+            "96": 0.610115060898957,
+            "97": 0.7532886004555049,
+            "60": 0.8209694356825401
+        }
+    },
+    {
+        "number": 152,
+        "state": "closed",
+        "title": "Major update to 2.5",
+        "body": "",
+        "message": "Major update to 2.5 ",
+        "merge_commit_sha": "da2121cc91096c1d4f2153126ebe82223dfa2bec",
+        "head": {
+            "sha": "da2121cc91096c1d4f2153126ebe82223dfa2bec"
+        },
+        "base": {
+            "sha": "1f2dc399800a135712264984ee93edb5136786b3"
+        },
+        "commitsLink": "https://api.github.com/repos/muclipse/omnitrack_android/pulls/152/commits",
+        "merged": true,
+        "corpus": [
+            "major",
+            "update",
+            "2.5"
+        ],
+        "tfidf": {
+            "1599": 0.673750005857964,
+            "26": 0.5754961200260632,
+            "29": 0.6407680617148338
+        }
+    }
+]
